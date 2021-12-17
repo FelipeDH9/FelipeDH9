@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @FelipeDH9 (Felipe Haddad, 22, Indutrial Engineer)
+- 👋 Hi, I’m @FelipeDH9 (Felipe Haddad, 22, Industrial Engineer)
 - 👀 I’m interested in develop my coding skills starting with WEB development, following by React and Node.JS.
-- 🌱 I’m currently learning HTML, CSS and JavaScript for WEB development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript for WEB development, to create a site for my mother, an artist wanting some place to expose her art (ceramics, porcelains and paintings).
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contact with me by sending an email in: felipehaddad25@gmail.com.
+- 📫 Contact with me by sending an email to felipehaddad25@gmail.com
+- My LinkedIn acount: linkedin.com/in/felipe-d-haddad
 
 
 <!---
