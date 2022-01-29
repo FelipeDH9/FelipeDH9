@@ -1,4 +1,4 @@
-<h2>Olá! Eu me sou o Felipe Haddad!!!</h2>
+<h2>Olá! Eu sou o Felipe Haddad!!!</h2>
 
 - 👀 I’m interested in develop my coding skills starting with WEB development, following by React and Node.JS.
 - 🌱 I’m currently learning HTML, CSS and JavaScript for WEB development, to create a site for my mother, an artist wanting some place to expose her art (ceramics, porcelains and paintings).
