@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <a href="mailto:felipehaddad25@gmail.com"> Email</a>
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/felipe-d-haddad/" target="_blank"> LinkedIn </a>
+    <a href="https://www.linkedin.com/in/felipe-d-haddad/" target="_blank" > LinkedIn </a>
   </li>
 </ul>
 
