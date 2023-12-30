@@ -4,8 +4,8 @@ Sobre mim:
 
 - Engenheiro de Produção em transição de carreira para a área da tecnologia
 - Estudando React
-- Aluno da CS50 2023 de Harvard
-- Aluno de Analise e Desenvolvimento de Sistemas na Uniso (Universidade de Sorocaba)
+- Certificado autenticado da CS50 2023 de Harvard
+- Aluno de Análise e Desenvolvimento de Sistemas na Uniso (Universidade de Sorocaba)
 
 <h2> 📨 Ways to contact me: </h2>
 <ul> 
